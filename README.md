@@ -1,4 +1,4 @@
-# Advanced Stadistics in Data Analysis 
+# Advanced Stadistics in R for Data Analysis 
 ### MSc in Data Science Course
 
 ## Activity 1: Data preprocessing
