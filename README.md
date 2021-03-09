@@ -1,4 +1,4 @@
-# Advanced Stadistics in Data Analysis
+# Advanced Stadistics in Data Analysis | MSc in Data Science Course
 
 ## Activity 1: Data preprocessing
 
@@ -45,6 +45,54 @@
 - Causality analysis of underweight with the smoking mother factor. It is concluded that smoking does significantly affect low birth weight. 
 
 6. Analysis of low birth weight cases (with gestation >36). 
+
+## Activity 3: Predictive modeling
+
+##### Goal: Building statistical models to obtain accurate and meaningful information from the data
+
+1. Linear regression model 
+
+- Univariate linear regression model 
+- Multiple linear regression model (quantitative regressors) . 
+
+2. Model diagnosis 
+
+3. Model prediction
+
+4. Logistic regression model 
+
+- OR (Odds Ratio) estimation .
+- Logistic regression model 
+- Prediction 
+- Fitting
+- ROC curve 
+
+## Activity 4: Analysis of variance
+
+##### Goal: Analysis of variance of data, treatment of outliers and inferential statistics.
+
+1. Descriptive statistics and visualization
+
+2. Inferential statistics
+
+- Confidence interval
+- Comparison test of two means
+- Null and alternative hypothesis
+- Choice of analysis method
+- Statistical calculations of contrast, critical value and p-value with a confidence interval of 95%.
+
+3. Non-parametric contrast
+
+4. Regression 
+
+5. One-factor analysis of variance (ANOVA) 
+
+- Null and alternative hypothesis
+- Graphical display 
+- Normality of residuals 
+- Homoscedasticity of the residuals 
+
+6. Nonparametric ANOVA 
 
 
 
