@@ -50,16 +50,16 @@
 
 ##### Goal: Building statistical models to obtain accurate and meaningful information from the data
 
-1. Linear regression model 
+###### 1. Linear regression model 
 
 - Univariate linear regression model 
 - Multiple linear regression model (quantitative regressors) . 
 
-2. Model diagnosis 
+###### 2. Model diagnosis 
 
-3. Model prediction
+###### 3. Model prediction
 
-4. Logistic regression model 
+###### 4. Logistic regression model 
 
 - OR (Odds Ratio) estimation .
 - Logistic regression model 
@@ -71,9 +71,9 @@
 
 ##### Goal: Analysis of variance of data, treatment of outliers and inferential statistics.
 
-1. Descriptive statistics and visualization
+###### 1. Descriptive statistics and visualization
 
-2. Inferential statistics
+###### 2. Inferential statistics
 
 - Confidence interval
 - Comparison test of two means
@@ -81,18 +81,18 @@
 - Choice of analysis method
 - Statistical calculations of contrast, critical value and p-value with a confidence interval of 95%.
 
-3. Non-parametric contrast
+###### 3. Non-parametric contrast
 
-4. Regression 
+###### 4. Regression 
 
-5. One-factor analysis of variance (ANOVA) 
+###### 5. One-factor analysis of variance (ANOVA) 
 
 - Null and alternative hypothesis
 - Graphical display 
 - Normality of residuals 
 - Homoscedasticity of the residuals 
 
-6. Nonparametric ANOVA 
+###### 6. Nonparametric ANOVA 
 
 
 
